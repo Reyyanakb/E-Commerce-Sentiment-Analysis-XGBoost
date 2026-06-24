@@ -54,5 +54,5 @@ Modelin başarısı teorik metriklerle sınırlı bırakılmamış, kuruma sağl
  │-- 📄 fondotenler_yorumlari.csv  # Trendyol'dan çekilen müşteri yorum verisi
  │-- 📄 Yonetici_Ozeti_Raporu.pdf  # İş senaryosu ve finansal ROI'yi içeren resmi rapor dökümanı
  │-- 📄 image_8acb84.png           # Modelin SHAP açıklanabilirlik grafiği görseli
- │-- 📁 json_data/                 # Ürün detaylarını barındıran kaynak pazar dosyaları
+ │-- 📁 kaggle veri seti                 # Ürün detaylarını barındıran kaynak pazar dosyaları
 Data Fusion, NLP Sentiment Analysis, XGBoost and ROI Simulation project for E-commerce
